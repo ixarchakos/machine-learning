@@ -1,8 +1,5 @@
 function S = softmax(Y) 
 %function S = softmax(Y) 
-%
-%
-% Michalis Titsias (2014)
 
 [N K] = size(Y);
 
